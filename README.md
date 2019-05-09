@@ -1,2 +1,0 @@
-# sysaxiom-app
-Sysaxiom Heroku
