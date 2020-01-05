@@ -106,27 +106,27 @@
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 feature-box-1 xs-margin-30px-bottom wow fadeIn last-paragraph-no-margin">
                         <div class="col-md-12 col-sm-12 no-padding margin-15px-bottom alt-font">
                             <h3 class="char-value text-deep-pink letter-spacing-minus-1 text-medium-gray font-weight-600">01.</h3>
-                            <span class="text-large text-extra-dark-gray line-height-22 padding-20px-left sm-padding-15px width-100 display-table-cell vertical-align-middle">Creativity.<br> Discover talent.</span>
+                            <span class="text-large text-extra-dark-gray line-height-22 padding-20px-left sm-padding-15px width-100 display-table-cell vertical-align-middle">Business Analysis,<br> Digital Solution.</span>
                         </div>
-                        <p class="width-90 sm-width-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry.</p>
+                        <p class="width-90 sm-width-100">We have great minds to understand your business needs and gives you best possible digital solution.</p>
                     </div>
                     <!-- end feature box item -->
                     <!-- start feature box item -->
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 feature-box-1 xs-margin-30px-bottom wow fadeIn last-paragraph-no-margin" data-wow-delay="0.2s">
                         <div class="col-md-12 col-sm-12 no-padding margin-15px-bottom alt-font">
                             <h3 class="char-value text-deep-pink letter-spacing-minus-1 text-medium-gray font-weight-600">02.</h3>
-                            <span class="text-large text-extra-dark-gray line-height-22 padding-20px-left width-100 display-table-cell vertical-align-middle">Technology.<br> Expert analysis.</span>
+                            <span class="text-large text-extra-dark-gray line-height-22 padding-20px-left width-100 display-table-cell vertical-align-middle">Technology <br>Expertise.</span>
                         </div>
-                        <p class="width-90 sm-width-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry.</p>
+                        <p class="width-90 sm-width-100">A Team with variety of technology experts to guide you in digitizing your business.</p>
                     </div>
                     <!-- end feature box item -->
                     <!-- start feature box item -->
                     <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 feature-box-1 wow fadeIn last-paragraph-no-margin" data-wow-delay="0.4s">
                         <div class="col-md-12 col-sm-12 no-padding margin-15px-bottom alt-font">
                             <h3 class="char-value text-deep-pink letter-spacing-minus-1 text-medium-gray font-weight-600">03.</h3>
-                            <span class="text-large text-extra-dark-gray line-height-22 padding-20px-left width-100 display-table-cell vertical-align-middle">Discover.<br> Explore work.</span>
+                            <span class="text-large text-extra-dark-gray line-height-22 padding-20px-left width-100 display-table-cell vertical-align-middle">Creative and Innovative.<br> Explore work.</span>
                         </div>
-                        <p class="width-90 sm-width-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry.</p>
+                        <p class="width-90 sm-width-100">We have Innovation team to develop products in the latest cutting edge technologies like Wear OS, iOT and lot more</p>
                     </div>
                     <!-- end feature box item -->
                 </div>
@@ -141,7 +141,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInRight no-padding-lr sm-padding-15px-lr">
                         <div class="padding-ten-all md-padding-ten-all pull-left sm-no-padding-lr xs-padding-50px-tb">
                             <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12 margin-five-bottom md-margin-six-bottom sm-margin-40px-bottom xs-margin-30px-bottom xs-no-padding-lr">
-                                <h4 class="alt-font text-extra-dark-gray font-weight-600 sm-text-center sm-width-70 sm-margin-lr-auto sm-no-margin-bottom xs-width-100">We are delivering beautiful digital products for you</h4>
+                                <h4 class="alt-font text-extra-dark-gray font-weight-600 sm-text-center sm-width-70 sm-margin-lr-auto sm-no-margin-bottom xs-width-100">BUSINESS PHILOSOPHY – 3D - We are following 3D Philosophy to make Quality products and customers happy :D</h4>
                             </div>
                             <div class="col-2-nth">
                                 <!-- start feature box item -->
@@ -149,8 +149,17 @@
                                     <div class="feature-box-5 position-relative">
                                         <i class="icon-desktop text-medium-gray icon-medium"></i>
                                         <div class="feature-content">
-                                            <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">Elegant / Unique design</div>
-                                            <p class="width-95 md-width-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+                                            <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">DESIGN:</div>
+                                            <p class="width-95 md-width-100">
+                                            <ul class="b">
+  <li>Requirement Gathering</li>
+  <li>UI / UX Design</li>
+  <li>Branding & Logo Design</li>
+  <li>Branding & Logo Design</li>
+  <li>Wire Frame for Functional Flow</li>
+</ul>
+
+                            
                                         </div>
                                     </div>
                                 </div>
@@ -160,8 +169,15 @@
                                     <div class="feature-box-5 position-relative">
                                         <i class="icon-pricetags text-medium-gray icon-medium"></i>
                                         <div class="feature-content">
-                                            <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">Different Layout Type</div>
-                                            <p class="width-95 md-width-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+                                            <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">DEVELOP:</div>
+                                            <p class="width-95 md-width-100">
+
+                                            <ul class="b">
+                                                <li>Architectural Setup</li>
+                                                <li>Develop Application phase by phase</li>
+                                                <li>High Quality Performance Optimization</li>
+                                                </ul>
+                                                </p>
                                         </div>
                                     </div>
                                 </div>
@@ -171,8 +187,12 @@
                                     <div class="feature-box-5 position-relative">
                                         <i class="icon-chat text-medium-gray icon-medium"></i>
                                         <div class="feature-content">
-                                            <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">Make it Simple</div>
-                                            <p class="width-95 md-width-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+                                            <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">DELIVER:</div>
+                                            <p class="width-95 md-width-100">
+                                            <ul class="b">
+                                                <li>Functional and Quality Testing</li>
+                                                <li>Delivery to Customer</li>
+                                                </ul>                                            
                                         </div>
                                     </div>
                                 </div>
@@ -182,8 +202,16 @@
                                     <div class="feature-box-5 position-relative ">
                                         <i class="icon-mobile text-medium-gray icon-medium"></i>
                                         <div class="feature-content">
-                                            <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">True Responsiveness</div>
-                                            <p class="width-95 md-width-100">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since.</p>
+                                            <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">WHY CHOOSE US</div>
+                                            <p class="width-95 md-width-100">
+                                            <ul class="b">
+                                                <li>We deliver products ontime with High quality standards.</li>
+                                                <li>We are always giving the top most priority to bringing 100% customer satisfaction</li>
+                                                </ul>   
+                                            
+
+
+</p>
                                         </div>
                                     </div>
                                 </div>
