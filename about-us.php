@@ -49,10 +49,10 @@
                     <div class="col-md-12 col-sm-12 col-xs-12 display-table page-title-large">
                         <div class="display-table-cell vertical-align-middle text-center padding-30px-tb">
                             <!-- start sub title -->
-                            <span class="display-block text-white opacity6 alt-font margin-5px-bottom">We are awesome designer</span>
+                            <span class="display-block text-white opacity6 alt-font margin-5px-bottom">We are Sysaxiom</span>
                             <!-- end sub title -->
                             <!-- start page title -->
-                            <h1 class="alt-font text-white font-weight-600 no-margin-bottom">About simple</h1>
+                            <h1 class="alt-font text-white font-weight-600 no-margin-bottom">Digital Future, Right away!</h1>
                             <!-- end page title -->
                         </div>
                     </div>
@@ -74,10 +74,10 @@
                     <div class="col-md-7 col-sm-12 col-xs-12 wow fadeInRight" data-wow-delay="0.2s">
                         <div class="display-table width-100 height-100">
                             <div class="display-table-cell vertical-align-middle padding-twelve-lr sm-text-center sm-no-padding width-100">
-                                <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium">Don’t worry, you’re in safe hands.</span>
-                                <h6 class="alt-font text-extra-dark-gray">We are committed to our customers’ success from start to finish. Our input helps make their solutions.</h6>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum is printing and typesetting simply dummy text.</p>
-                                <a href="services-simple.html" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top"><i class="fas fa-play-circle icon-very-small margin-5px-right no-margin-left" aria-hidden="true"></i> Our Services</a>
+                                <span class="text-deep-pink alt-font margin-10px-bottom display-inline-block text-medium hide">Don’t worry, you’re in safe hands.</span>
+                                <h6 class="alt-font text-extra-dark-gray hide">We develop create and innovative products and also provide digital solutions to business. We are following 3D ( Design, Develop and Deliver ) philosophy to provide better and quality products to the Customers. Our development strategy involves Agile methodology where products are delivered for every sprint cycle which improves the credibility for Customers.</h6>
+                                <p class="">We develop create and innovative products and also provide digital solutions to business. We are following 3D ( Design, Develop and Deliver ) philosophy to provide better and quality products to the Customers. Our development strategy involves Agile methodology where products are delivered for every sprint cycle which improves the credibility for Customers.</p>
+                                <a href="services-simple.html" class="btn btn-dark-gray btn-small text-extra-small btn-rounded margin-5px-top hide"><i class="fas fa-play-circle icon-very-small margin-5px-right no-margin-left hide" aria-hidden="true"></i> Our Services</a>
                             </div>
                         </div>
                     </div>
@@ -92,7 +92,7 @@
                         </div>
                         <div class="col-md-9 col-sm-8 col-xs-12 no-padding">
                             <span class="margin-5px-bottom text-extra-dark-gray alt-font display-block font-weight-600">Digital Solutions</span>
-                            <p class="width-75 md-width-100">Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+                            <p class="width-75 md-width-100">We are providing digital solutions to your business by Mobile, Web and desktop apps. We have a strong core team to understand your requirements and convert it into the product you want.</p>
                         </div>
                     </div>
                     <!-- end feature box item -->
@@ -102,8 +102,8 @@
                             <i class="icon-book-open text-medium-gray icon-extra-medium top-6"></i>
                         </div>
                         <div class="col-md-9 col-sm-8 col-xs-12 no-padding">
-                            <span class="margin-5px-bottom text-extra-dark-gray alt-font display-block font-weight-600">SEO Marketing</span>
-                            <p class="width-75 md-width-100">Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+                            <span class="margin-5px-bottom text-extra-dark-gray alt-font display-block font-weight-600">Brand Design and Digital Marketing</span>
+                            <p class="width-75 md-width-100">We are expertised in Brand designing, Competitor research and Analysis and Digital Marketing Analysis </p>
                         </div>
                     </div>
                     <!-- end feature box item -->
@@ -113,8 +113,8 @@
                             <i class="icon-gift text-medium-gray icon-extra-medium top-6"></i>
                         </div>
                         <div class="col-md-9 col-sm-8 col-xs-12 no-padding">
-                            <span class="margin-5px-bottom text-extra-dark-gray alt-font display-block font-weight-600">Creative Strategy</span>
-                            <p class="width-75 md-width-100">Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+                            <span class="margin-5px-bottom text-extra-dark-gray alt-font display-block font-weight-600">Innovation</span>
+                            <p class="width-75 md-width-100">We are providing iOT based and gadget based solution for your personal as well as business needs.</p>
                         </div>
                     </div>
                     <!-- end feature box item -->
