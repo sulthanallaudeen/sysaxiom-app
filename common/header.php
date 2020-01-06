@@ -6,7 +6,7 @@
                     <div class="row">
                         <!-- start logo -->
                         <div class="col-md-2 col-xs-5">
-                            <a href="index.html" title="Pofo" class="logo"><img src="images/logo.png" data-rjs="images/logo@2x.png" class="logo-dark default" alt="Pofo"><img src="images/logo-white.png" data-rjs="images/logo-white@2x.png" alt="Pofo" class="logo-light"></a>
+                            <a href="index.html" title="Sysaxiom Logo" class="logo"><img src="images/logo.png" data-rjs="images/logo@2x.png" class="logo-dark default" alt="Pofo"><img src="images/logo-white.png" data-rjs="images/logo-white@2x.png" alt="Pofo" class="logo-light"></a>
                         </div>
                         <!-- end logo -->
                         <div class="col-md-7 col-xs-2 width-auto pull-right accordion-menu xs-no-padding-right">
@@ -27,15 +27,15 @@
                                         <a href="about-us.php">About Us</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                         <!-- sub menu -->
                                     </li>
-                                    <li class="dropdown megamenu-fw">
+                                    <li class="dropdown megamenu-fw hide">
                                         <a href="services.php">Services</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                         <!-- sub menu -->
                                     </li>
-                                    <li class="dropdown megamenu-fw">
+                                    <li class="dropdown megamenu-fw hide">
                                         <a href="clients.php">Our Clients</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                         <!-- sub menu -->
                                     </li>
-                                    <li class="dropdown megamenu-fw">
+                                    <li class="dropdown megamenu-fw hide">
                                         <a href="contact-us.php">Contact Us</a><i class="fas fa-angle-down dropdown-toggle" data-toggle="dropdown" aria-hidden="true"></i>
                                         <!-- sub menu -->
                                     </li>

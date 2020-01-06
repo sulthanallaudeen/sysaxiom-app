@@ -50,7 +50,7 @@
                             <div class="col-md-12 slider-typography text-left xs-text-center">
                                 <div class="slider-text-middle-main">
                                     <div class="slider-text-middle">
-                                        <h1 class="alt-font text-extra-dark-gray font-weight-700 letter-spacing-minus-1 line-height-80 width-55 margin-35px-bottom md-width-60 sm-width-70 md-line-height-auto xs-width-100 xs-margin-15px-bottom">We Combine Ideas, Design and Technology</h1>
+                                        <h2 class="alt-font text-extra-dark-gray font-weight-700 letter-spacing-minus-1 line-height-80 width-55 margin-35px-bottom md-width-60 sm-width-70 md-line-height-auto xs-width-100 xs-margin-15px-bottom">We Combine Ideas, Design and Technology</h2>
                                         <p class="text-extra-dark-gray text-large margin-four-bottom width-40 md-width-50 sm-width-60 xs-width-100 xs-margin-15px-bottom hide">Everything you could possibly want it to do and not only that, beautifully carefully designed.</p>
                                         <div class="btn-dual hide"><a href="https://themeforest.net/item/pofo-creative-agency-corporate-and-portfolio-multipurpose-template/20645944?ref=themezaa" target="_blank" class="btn btn-dark-gray btn-rounded btn-small no-margin-lr">Purchase Pofo</a><a href="https://themeforest.net/item/pofo-creative-agency-corporate-and-portfolio-multipurpose-template/20645944?ref=themezaa" target="_blank" class="btn btn-transparent-dark-gray btn-rounded btn-small margin-20px-lr xs-margin-5px-top">Download now</a></div>
                                     </div>
@@ -65,7 +65,7 @@
                             <div class="col-md-12 slider-typography text-left xs-text-center">
                                 <div class="slider-text-middle-main">
                                     <div class="slider-text-middle">
-                                        <h1 class="alt-font text-extra-dark-gray font-weight-700 letter-spacing-minus-1 line-height-80 width-55 margin-35px-bottom md-width-60 sm-width-70 md-line-height-auto xs-width-100 xs-margin-15px-bottom">We develop Mobile, Watch and Web Apps for your business.</h1>
+                                        <h2 class="alt-font text-extra-dark-gray font-weight-700 letter-spacing-minus-1 line-height-80 width-55 margin-35px-bottom md-width-60 sm-width-70 md-line-height-auto xs-width-100 xs-margin-15px-bottom">We develop Mobile, Watch and Web Apps for your business.</h2>
                                         <p class="text-extra-dark-gray text-large margin-four-bottom width-40 md-width-50 sm-width-60 xs-width-100 xs-margin-15px-bottom hide">Everything you could possibly want it to do and not only that, beautifully carefully designed.</p>
                                         <div class="btn-dual hide"><a href="https://themeforest.net/item/pofo-creative-agency-corporate-and-portfolio-multipurpose-template/20645944?ref=themezaa" target="_blank" class="btn btn-dark-gray btn-rounded btn-small no-margin-lr">Purchase Pofo</a><a href="https://themeforest.net/item/pofo-creative-agency-corporate-and-portfolio-multipurpose-template/20645944?ref=themezaa" target="_blank" class="btn btn-transparent-dark-gray btn-rounded btn-small margin-20px-lr xs-margin-5px-tb">Download now</a></div>
                                     </div>
@@ -80,7 +80,7 @@
                             <div class="col-md-12 slider-typography text-left xs-text-center">
                                 <div class="slider-text-middle-main">
                                     <div class="slider-text-middle">
-                                        <h1 class="alt-font text-extra-dark-gray font-weight-700 letter-spacing-minus-1 line-height-80 width-55 margin-35px-bottom md-width-60 sm-width-70 md-line-height-auto xs-width-100 xs-margin-15px-bottom">We provide Digital Marketing and Business solutions.</h1>
+                                        <h2 class="alt-font text-extra-dark-gray font-weight-700 letter-spacing-minus-1 line-height-80 width-55 margin-35px-bottom md-width-60 sm-width-70 md-line-height-auto xs-width-100 xs-margin-15px-bottom">We provide Digital Marketing and Business solutions.</h2>
                                         <p class="text-extra-dark-gray text-large margin-four-bottom width-40 md-width-50 sm-width-60 xs-width-100 xs-margin-15px-bottom hide">Everything you could possibly want it to do and not only that, beautifully carefully designed.</p>
                                         <div class="btn-dual hide"><a href="https://themeforest.net/item/pofo-creative-agency-corporate-and-portfolio-multipurpose-template/20645944?ref=themezaa" target="_blank" class="btn btn-dark-gray btn-rounded btn-small no-margin-lr">Purchase Pofo</a><a href="https://themeforest.net/item/pofo-creative-agency-corporate-and-portfolio-multipurpose-template/20645944?ref=themezaa" target="_blank" class="btn btn-transparent-dark-gray btn-rounded btn-small margin-20px-lr xs-margin-5px-tb">Download now</a></div>
                                     </div>
@@ -141,7 +141,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 wow fadeInRight no-padding-lr sm-padding-15px-lr">
                         <div class="padding-ten-all md-padding-ten-all pull-left sm-no-padding-lr xs-padding-50px-tb">
                             <div class="col-lg-11 col-md-12 col-sm-12 col-xs-12 margin-five-bottom md-margin-six-bottom sm-margin-40px-bottom xs-margin-30px-bottom xs-no-padding-lr">
-                                <h4 class="alt-font text-extra-dark-gray font-weight-600 sm-text-center sm-width-70 sm-margin-lr-auto sm-no-margin-bottom xs-width-100">BUSINESS PHILOSOPHY – 3D - We are following 3D Philosophy to make Quality products and customers happy :D</h4>
+                                <h4 class="alt-font text-extra-dark-gray font-weight-600 sm-text-center sm-width-70 sm-margin-lr-auto sm-no-margin-bottom xs-width-100">We are following 3D Philosophy to make Quality products and customers happy</h4>
                             </div>
                             <div class="col-2-nth">
                                 <!-- start feature box item -->
@@ -149,17 +149,16 @@
                                     <div class="feature-box-5 position-relative">
                                         <i class="icon-desktop text-medium-gray icon-medium"></i>
                                         <div class="feature-content">
-                                            <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">DESIGN:</div>
+                                            <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">DESIGN</div>
                                             <p class="width-95 md-width-100">
-                                            <ul class="b">
-  <li>Requirement Gathering</li>
-  <li>UI / UX Design</li>
-  <li>Branding & Logo Design</li>
-  <li>Branding & Logo Design</li>
-  <li>Wire Frame for Functional Flow</li>
-</ul>
-
-                            
+                                            <ul class="card-list">
+                                                <li>Requirement Gathering.</li>
+                                                <li>UI / UX Design.</li>
+                                                <li>Branding & Logo Design.</li>
+                                                <li>Branding & Logo Design.</li>
+                                                <li>Wire Frame for Functional Flow.</li>
+                                                </ul>
+                                                </p>                            
                                         </div>
                                     </div>
                                 </div>
@@ -169,13 +168,13 @@
                                     <div class="feature-box-5 position-relative">
                                         <i class="icon-pricetags text-medium-gray icon-medium"></i>
                                         <div class="feature-content">
-                                            <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">DEVELOP:</div>
+                                            <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">DEVELOP</div>
                                             <p class="width-95 md-width-100">
 
-                                            <ul class="b">
-                                                <li>Architectural Setup</li>
-                                                <li>Develop Application phase by phase</li>
-                                                <li>High Quality Performance Optimization</li>
+                                            <ul class="card-list">
+                                                <li>Architectural Setup.</li>
+                                                <li>Develop Application phase by phase.</li>
+                                                <li>High Quality Performance Optimization.</li>
                                                 </ul>
                                                 </p>
                                         </div>
@@ -187,12 +186,13 @@
                                     <div class="feature-box-5 position-relative">
                                         <i class="icon-chat text-medium-gray icon-medium"></i>
                                         <div class="feature-content">
-                                            <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">DELIVER:</div>
+                                            <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">DELIVER</div>
                                             <p class="width-95 md-width-100">
-                                            <ul class="b">
-                                                <li>Functional and Quality Testing</li>
-                                                <li>Delivery to Customer</li>
-                                                </ul>                                            
+                                            <ul class="card-list">
+                                                <li>Functional and Quality Testing.</li>
+                                                <li>Delivery to Customer.</li>
+                                                </ul>           
+                                            </p>                                 
                                         </div>
                                     </div>
                                 </div>
@@ -204,9 +204,9 @@
                                         <div class="feature-content">
                                             <div class="text-extra-dark-gray margin-5px-bottom alt-font font-weight-600">WHY CHOOSE US</div>
                                             <p class="width-95 md-width-100">
-                                            <ul class="b">
+                                            <ul class="card-list">
                                                 <li>We deliver products ontime with High quality standards.</li>
-                                                <li>We are always giving the top most priority to bringing 100% customer satisfaction</li>
+                                                <li>We are always giving the top most priority in bringing 100% customer satisfaction.</li>
                                                 </ul>   
                                             
 
@@ -224,7 +224,7 @@
         </section>
         <!-- end feature section -->
         <!-- start counter section -->
-        <section class="wow fadeIn">
+        <section class="wow fadeIn hide" >
             <div class="container">
                 <div class="row">
                     <!-- start counter item -->
@@ -276,8 +276,8 @@
         </section>
         <!-- end counter section -->
         <!-- start recent work section -->
-        <section class="bg-light-gray wow fadeIn">
-            <div class="container">
+        <section class="bg-light-gray wow fadeIn hide">
+            <div class="container  ">
                 <div class="row">
                     <div class="col-lg-5 col-md-6 col-sm-6 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center">
                         <div class="alt-font text-medium-gray margin-5px-bottom text-uppercase text-small">Our recent works</div>
@@ -443,7 +443,7 @@
                         <div class="display-table-cell vertical-align-middle padding-fifteen-all xs-padding-30px-tb xs-no-padding-lr">
                             <i class="icon-desktop icon-large text-deep-pink"></i>
                             <span class="display-block alt-font font-weight-600 text-extra-dark-gray margin-25px-top margin-5px-bottom sm-margin-15px-top">Elegant / Unique design</span>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard text.</p>
+                            <p class="hide">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard text.</p>
                         </div>
                     </div>
                     <!-- end feature box item -->
@@ -452,7 +452,7 @@
                         <div class="display-table-cell vertical-align-middle padding-fifteen-all xs-padding-30px-tb xs-no-padding-lr">
                             <i class="icon-pricetags icon-large text-deep-pink"></i>
                             <span class="display-block alt-font font-weight-600 text-extra-dark-gray margin-25px-top margin-5px-bottom sm-margin-15px-top">Different Layout Type</span>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard text.</p>
+                            <p class="hide">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard text.</p>
                         </div>
                     </div>
                     <!-- end feature box item -->
@@ -461,7 +461,7 @@
                         <div class="display-table-cell vertical-align-middle padding-fifteen-all xs-padding-30px-tb xs-no-padding-lr">
                             <i class="icon-target icon-large text-deep-pink"></i>
                             <span class="display-block alt-font font-weight-600 text-extra-dark-gray margin-25px-top margin-5px-bottom sm-margin-15px-top">Testing for Perfection</span>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard text.</p>
+                            <p class="hide">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard text.</p>
                         </div>
                     </div>
                     <!-- end feature box item -->
@@ -470,7 +470,7 @@
                         <div class="display-table-cell vertical-align-middle padding-fifteen-all xs-padding-30px-tb xs-no-padding-lr">
                             <i class="icon-mobile icon-large text-deep-pink"></i>
                             <span class="display-block alt-font font-weight-600 text-extra-dark-gray margin-25px-top margin-5px-bottom sm-margin-15px-top">True Responsiveness</span>
-                            <p class="no-margin-bottom">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard text.</p>
+                            <p class="no-margin-bottom hide">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard text.</p>
                         </div>
                     </div>
                     <!-- end feature box item -->
@@ -485,7 +485,7 @@
                     <div class="col-lg-5 col-md-6 col-sm-6 col-xs-12 center-col margin-five-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center">
                         <div class="alt-font text-medium-gray margin-5px-bottom text-uppercase text-small">Why Choose Us?</div>
                         <h5 class="alt-font text-extra-dark-gray font-weight-600">We deliver 100% and provide instant response</h5>
-                        <p class="no-margin-bottom">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry.</p>
+                        <p class="no-margin-bottom hide">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since. Lorem Ipsum has been the industry.</p>
                     </div>
                 </div>
             </div>
@@ -497,7 +497,7 @@
         </section>
         <!-- end section -->
         <!-- start services section -->
-        <section class="wow fadeIn bg-extra-dark-gray">
+        <section class="wow fadeIn bg-extra-dark-gray hide">
             <div class="container">
                 <div class="row equalize sm-equalize-auto">
                     <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-center display-table sm-margin-50px-bottom xs-margin-30px-bottom">
@@ -525,7 +525,7 @@
         </section>
         <!-- end services section -->
         <!-- start testimonial section -->
-        <section class="bg-light-gray wow fadeIn">
+        <section class="bg-light-gray wow fadeIn hide">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-5 col-md-6 col-sm-6 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center">
@@ -584,7 +584,7 @@
         </section>
         <!-- end testimonial section -->
         <!-- start blog section -->
-        <section class="wow fadeIn hover-option4 blog-post-style3">
+        <section class="wow fadeIn hover-option4 blog-post-style3 hide">
             <div class="container">
                 <div class="row">
                     <div class="col-lg-5 col-md-6 col-sm-6 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center">
