@@ -45,12 +45,12 @@
             <div class="swiper-full-screen swiper-container height-100 width-100 black-move">
                 <div class="swiper-wrapper">
                     <!-- start slider item -->
-                    <div class="swiper-slide cover-background" style="background-image:url('http://placehold.it/1920x991');">
+                    <div class="swiper-slide cover-background" style="background-image:url('images/slider/1.jpg');">
                         <div class="container position-relative full-screen">
                             <div class="col-md-12 slider-typography text-left xs-text-center">
                                 <div class="slider-text-middle-main">
                                     <div class="slider-text-middle">
-                                        <h2 class="alt-font text-extra-dark-gray font-weight-700 letter-spacing-minus-1 line-height-80 width-55 margin-35px-bottom md-width-60 sm-width-70 md-line-height-auto xs-width-100 xs-margin-15px-bottom">We Combine Ideas, Design and Technology</h2>
+                                        <h2 class="alt-font text-extra-dark-gray font-weight-700 letter-spacing-minus-1 line-height-80 width-55 margin-35px-bottom md-width-60 sm-width-70 md-line-height-auto xs-width-100 xs-margin-15px-bottom txt-white">We Combine Ideas, Design and Technology</h2>
                                         <p class="text-extra-dark-gray text-large margin-four-bottom width-40 md-width-50 sm-width-60 xs-width-100 xs-margin-15px-bottom hide">Everything you could possibly want it to do and not only that, beautifully carefully designed.</p>
                                         <div class="btn-dual hide"><a href="https://themeforest.net/item/pofo-creative-agency-corporate-and-portfolio-multipurpose-template/20645944?ref=themezaa" target="_blank" class="btn btn-dark-gray btn-rounded btn-small no-margin-lr">Purchase Pofo</a><a href="https://themeforest.net/item/pofo-creative-agency-corporate-and-portfolio-multipurpose-template/20645944?ref=themezaa" target="_blank" class="btn btn-transparent-dark-gray btn-rounded btn-small margin-20px-lr xs-margin-5px-top">Download now</a></div>
                                     </div>
@@ -60,12 +60,12 @@
                     </div>
                     <!-- end slider item -->
                     <!-- start slider item -->
-                    <div class="swiper-slide cover-background" style="background-image:url('http://placehold.it/1920x991');">
+                    <div class="swiper-slide cover-background" style="background-image:url('images/slider/2.jpg');">
                         <div class="container position-relative full-screen">
                             <div class="col-md-12 slider-typography text-left xs-text-center">
                                 <div class="slider-text-middle-main">
                                     <div class="slider-text-middle">
-                                        <h2 class="alt-font text-extra-dark-gray font-weight-700 letter-spacing-minus-1 line-height-80 width-55 margin-35px-bottom md-width-60 sm-width-70 md-line-height-auto xs-width-100 xs-margin-15px-bottom">We develop Mobile, Watch and Web Apps for your business.</h2>
+                                        <h2 class="alt-font text-extra-dark-gray font-weight-700 letter-spacing-minus-1 line-height-80 width-55 margin-35px-bottom md-width-60 sm-width-70 md-line-height-auto xs-width-100 xs-margin-15px-bottom txt-white">We develop Mobile, Watch and Web Apps for your business.</h2>
                                         <p class="text-extra-dark-gray text-large margin-four-bottom width-40 md-width-50 sm-width-60 xs-width-100 xs-margin-15px-bottom hide">Everything you could possibly want it to do and not only that, beautifully carefully designed.</p>
                                         <div class="btn-dual hide"><a href="https://themeforest.net/item/pofo-creative-agency-corporate-and-portfolio-multipurpose-template/20645944?ref=themezaa" target="_blank" class="btn btn-dark-gray btn-rounded btn-small no-margin-lr">Purchase Pofo</a><a href="https://themeforest.net/item/pofo-creative-agency-corporate-and-portfolio-multipurpose-template/20645944?ref=themezaa" target="_blank" class="btn btn-transparent-dark-gray btn-rounded btn-small margin-20px-lr xs-margin-5px-tb">Download now</a></div>
                                     </div>
@@ -75,12 +75,12 @@
                     </div>
                     <!-- end slider item -->
                     <!-- start slider item -->
-                    <div class="swiper-slide cover-background" style="background-image:url('http://placehold.it/1920x991');">
+                    <div class="swiper-slide cover-background" style="background-image:url('images/slider/3.jpg');">
                         <div class="container position-relative full-screen">
                             <div class="col-md-12 slider-typography text-left xs-text-center">
                                 <div class="slider-text-middle-main">
                                     <div class="slider-text-middle">
-                                        <h2 class="alt-font text-extra-dark-gray font-weight-700 letter-spacing-minus-1 line-height-80 width-55 margin-35px-bottom md-width-60 sm-width-70 md-line-height-auto xs-width-100 xs-margin-15px-bottom">We provide Digital Marketing and Business solutions.</h2>
+                                        <h2 class="alt-font text-extra-dark-gray font-weight-700 letter-spacing-minus-1 line-height-80 width-55 margin-35px-bottom md-width-60 sm-width-70 md-line-height-auto xs-width-100 xs-margin-15px-bottom txt-white">We provide Digital Marketing and Business solutions.</h2>
                                         <p class="text-extra-dark-gray text-large margin-four-bottom width-40 md-width-50 sm-width-60 xs-width-100 xs-margin-15px-bottom hide">Everything you could possibly want it to do and not only that, beautifully carefully designed.</p>
                                         <div class="btn-dual hide"><a href="https://themeforest.net/item/pofo-creative-agency-corporate-and-portfolio-multipurpose-template/20645944?ref=themezaa" target="_blank" class="btn btn-dark-gray btn-rounded btn-small no-margin-lr">Purchase Pofo</a><a href="https://themeforest.net/item/pofo-creative-agency-corporate-and-portfolio-multipurpose-template/20645944?ref=themezaa" target="_blank" class="btn btn-transparent-dark-gray btn-rounded btn-small margin-20px-lr xs-margin-5px-tb">Download now</a></div>
                                     </div>

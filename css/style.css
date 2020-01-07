@@ -3821,6 +3821,9 @@ aside .latest-post li figure {width: 75px;}
     display:none;
 }
 .card-list{
-    padding : 0px 0px 0px 0px;
+    padding : 0px 0px 0px 0px !important;
     list-style-type:none !important;
+}
+.txt-white{
+    color:white !important;
 }
